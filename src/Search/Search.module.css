@@ -1,0 +1,29 @@
+.searchContainer {
+    height: 23px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 450px;
+    padding-bottom: 40px;
+  }
+  
+  .search {
+    width: 502px;
+    height: 100%;
+    border-radius: 8px ;
+    border: 1px solid black;
+    padding: 12px;
+    margin-right: 1px;
+  }
+  
+  .searchButton {
+    height: 2.7rem;
+    width: 66px;
+    border-radius: 8px;
+   
+    border: 1px solid black;
+    border-left: none;
+    cursor: pointer;
+   margin-right: 30px;
+  }
+  
